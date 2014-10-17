@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[vic:home|Door43 (vic)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-vic|d43-vic repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-vic/archive/master.zip|d43-vic.zip]]
+
+**Recent Changes**
+{{changes>ns = vic}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/vic|Ethnologue data]]
+
